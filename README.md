@@ -1,7 +1,7 @@
 <h1>👋 Hi! I’m xDestino.</h1>
 
 <h3 align="left">Languages And Tools</h3>
-<img src="https://github.com/xDestinoJS/xDestinoJS/assets/39455804/37989b29-e539-401f-8918-18ae64d50ce2" alt="tools" height="50"/> 
+<img src="https://github.com/xDestinoJS/xDestinoJS/assets/39455804/5290924f-2cdf-4c3c-ae25-f92bab3c8157" alt="tools" height="55"/> 
 
 <hr>
 <h3>About Me</h3>
