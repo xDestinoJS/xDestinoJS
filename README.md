@@ -6,7 +6,7 @@
 <hr>
 <h3>About Me</h3>
 
-- 🔭 I’m currently working on a [Minecraftle Clone](https://github.com/xDestinoJS/Minecraftle)!
+- 🔭 I’m currently working on a Discord Activity!
 
 - 🌱 I’m currently learning **React, Vue, Luau and Fusion**
 
