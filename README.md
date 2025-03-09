@@ -6,9 +6,9 @@
 <hr>
 <h3>About Me</h3>
 
-- 🔭 I’m currently working on a Discord Activity!
+- 🔭 I’m currently working on a SaaS!
 
-- 🌱 I’m currently learning **React, Vue, Luau and Fusion**
+- 🌱 I’m currently learning **Next.js, Luau and Fusion**
 
 - 📫 You can reach out to me [here](mailto:xdestinoo@gmail.com).
 
